@@ -1,0 +1,7 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(223, 240, 255);
+}
+a {
+    color: hsl(116, 70%, 23%);
+}
