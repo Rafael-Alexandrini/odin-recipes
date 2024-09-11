@@ -1,7 +1,22 @@
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color:rgb(223, 240, 255);
+    margin: 32px;
 }
 a {
     color: hsl(116, 70%, 23%);
+}
+h1 {
+    text-align: center;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.center{
+    text-align: center;
+}
+li img{
+    display: block;
 }
